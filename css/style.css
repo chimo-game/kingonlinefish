@@ -34,7 +34,7 @@ html {
   
   /* Set neon color */
   --neon-text-color: rgb(221, 255, 0);
-  --neon-border-color: #08f;
+  --neon-border-color: rgb(221, 255, 0);
 }
 
 h1{
@@ -50,7 +50,7 @@ h1{
 .img_box img {
   margin-bottom: 20px;
   /* padding: 2rem; */
-  border: 0.4rem solid #fff;
+  border: 0.2rem solid #fff;
   border-radius: 50px;
   animation: flicker2 2.5s infinite alternate;     
 }
