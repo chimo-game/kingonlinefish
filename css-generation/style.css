@@ -18,9 +18,9 @@ body {
   justify-content: center;
   background-color: var(--color-white);
   font-family: var(--ff-poppins);
-  /* background-image: url("/images/game/assets/_jackpot/y2021-07-30-03_generated.jpg");
+  background-image: url("/images/game/assets/_jackpot/y2021-07-30-03_generated.jpg");
   background-repeat: no-repeat;
-  background-size: cover; */
+  background-size: cover;
   transition: all 200ms linear;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(6px);

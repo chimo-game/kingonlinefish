@@ -38,13 +38,13 @@ html {
 }
 
 h1{
-  font-size: 13rem;
-  font-weight: 200;
+  font-size: 16rem;
+  font-weight: 700;
   font-style: italic;
   color: #fff;
   padding: 4rem 6rem 5.5rem;
   text-transform: uppercase;
-  animation: flicker 1.5s infinite alternate;     
+  animation: flicker 4.5s infinite alternate;     
 }
 
 .img_box img {
@@ -52,7 +52,7 @@ h1{
   /* padding: 2rem; */
   border: 0.2rem solid #fff;
   border-radius: 50px;
-  animation: flicker2 2.5s infinite alternate;     
+  animation: flicker2 3.5s infinite alternate;     
 }
 
 
