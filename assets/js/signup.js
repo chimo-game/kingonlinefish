@@ -32,9 +32,8 @@ eyeIcons.forEach((eyeIcon) => {
 
 // Password Validation
 function createPass() {
-    const passPattern = 8;
 
-    if (!passInput.value.match(passPattern)) {
+    if (passInput.value < 8) {
         return passField.classList.add("invalid"); //adding invalid class if password input value do not match with passPattern
     }
     passField.classList.remove("invalid"); //removing invalid class if password input value matched with passPattern
